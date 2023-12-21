@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Avoid interference with the low-code-ai repo when using private 
+# notebooks for experimentation
+MyNotebooks/
+
+
+
+
